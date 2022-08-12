@@ -6,7 +6,7 @@ public class Program {
   public static void main(String[] args) {
     Scanner scanner = new Scanner(System.in);
     
-    System.out.print("Enter the number quantity: ");
+    System.out.print("Enter the amount: ");
     int n = scanner.nextInt();
     double[] vect = new double[n];
 
